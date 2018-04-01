@@ -74,4 +74,13 @@ public class MusicObject
     }
 
 
+ 	public Bitmap test(Drawable drawable, int x_pos, int y_pos, int w, int h)
+    {
+        Bitmap bitmap = null;
+        System.out.println("W funkcji");
+       
+
+        return bitmap;
+    }
+
 }
